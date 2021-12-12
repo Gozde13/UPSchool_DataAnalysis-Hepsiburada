@@ -5,3 +5,4 @@
 * In the Data Analysis House data, I examinde houses prices accroding to some variables. It includes some statistical plots.
 *
 * Capstone Project is my final project. In the file, there are data about my capstone project.
+* Some small analysis using sql before the Capstone Project.
